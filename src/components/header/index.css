@@ -1,0 +1,18 @@
+.Navbar {
+    height: 90px;
+}
+
+#Name {
+    font-size: 40px;
+    transition: 0.5s;
+}
+
+#Name:hover {
+    color: #BF7E78;
+}
+
+#BtnSearch {
+    background-color: #BF7E78;
+    border: 0;
+}
+

@@ -1,0 +1,30 @@
+.card {
+    display: flex;
+    padding: 30px;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.card img {
+    height: 300px;
+    width: 290px;
+    border-radius: 400px;
+}
+
+.card-title {
+    background-color: #F2E4DC;
+    text-align: center;
+}
+
+.card-text {
+    text-decoration: dashed;
+}
+
+.reacoes {
+    margin: 40px;
+}
+
+svg {
+    width: 35px;
+}
